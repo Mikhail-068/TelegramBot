@@ -3,7 +3,7 @@ from random import choice
 from responses import BOT_CONFIG
 import re
 
-API_KEY = '5305576482:AAG4oyD9NoDxCHxnX_FZOj9jux5CSDB2fQA'
+API_KEY = '5305576482'
 
 
 def isMatch(text1, text2):
